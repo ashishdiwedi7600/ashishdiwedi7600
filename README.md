@@ -21,7 +21,7 @@ Full Stack Developer with **5+ years** of experience building scalable, high-per
 
 Currently building **HireHub**, an AI-powered ATS and hiring platform, as my flagship project — and delivering client work through **Wrocus Technologies** for major Indian media companies.
 
-- 🔭 Currently building **[HireHub](https://github.com/ashish-diwedi/hirehub)** — an AI-powered ATS with resume parsing, JD scoring, and AI interview agents
+- 🔭 Currently building **[HireHub](https://github.com/ashishdiwedi7600/hirehub)** — an AI-powered ATS with resume parsing, JD scoring, and AI interview agents
 - 🌱 Deep-diving into **Node.js internals**, **BullMQ**, and **microservices architecture**
 - 💼 Delivering production systems for **Times of India, HT Media (OTTplay), Network18**
 - 🎯 5+ client engagements spanning media, healthcare, OTT, and AI SaaS
@@ -88,7 +88,7 @@ Currently building **HireHub**, an AI-powered ATS and hiring platform, as my fla
 | 🛡️ **Anti-Sharing Security** | JWT `jti` rotation, IP/UA fingerprinting, one-active-session enforcement |
 
 <div align="center">
-  <a href="https://github.com/ashish-diwedi/hirehub">
+  <a href="https://github.com/ashishdiwedi7600/hirehub">
     <img src="https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -110,12 +110,8 @@ Currently building **HireHub**, an AI-powered ATS and hiring platform, as my fla
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishdiwedi7600&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishdiwedi7600&theme=tokyonight&hide_border=true" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishdiwedi7600&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="./profile/stats.svg" width="49%"/>
+  <img src="./profile/top-langs.svg" width="49%"/>
 </div>
 
 <br/>
