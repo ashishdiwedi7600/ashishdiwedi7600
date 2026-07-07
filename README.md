@@ -110,12 +110,12 @@ Currently building **HireHub**, an AI-powered ATS and hiring platform, as my fla
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-diwedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-diwedi&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishdiwedi7600&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishdiwedi7600&theme=tokyonight&hide_border=true" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-diwedi&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishdiwedi7600&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 <br/>
