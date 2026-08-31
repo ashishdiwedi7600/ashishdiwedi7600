@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with **5+ years** of experience building scalable, high-performance web applications across media, OTT/streaming, healthcare, and AI SaaS. I specialize in **React.js / Next.js**, **Node.js / Fastify**, and integrating **LLMs (Anthropic Claude API)** into real production workflows — resume parsing, AI scoring, and autonomous interview agents.
+Full Stack Developer with **8 years** of experience building scalable, high-performance web applications across media, OTT/streaming, healthcare, and AI SaaS. I specialize in **React.js / Next.js**, **Node.js / Fastify**, and integrating **LLMs (Anthropic Claude API)** into real production workflows — resume parsing, AI scoring, and autonomous interview agents.
 
 Currently building **HireHub**, an AI-powered ATS and hiring platform, as my flagship project — and delivering client work through **Wrocus Technologies** for major Indian media companies.
 
